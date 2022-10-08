@@ -1,18 +1,32 @@
 # Hi there, I'm Chris 👋
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chris-townsend&layout=compact)](https://github.com/chris-townsend/github-readme-stats"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=chris-townsend&show_icons=true&theme=radical"/>
+# <div align="center">
+  <div style="display: inline-block">
+  <a href="https://github.com/PedroCristo">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chris-townsend&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chris-townsend&layout=compact&langs_count=7&theme=dracula"/>
+    </div>
+</div>
+
+  <br>
+<span><img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></span>
+<span><img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></span>
+<span><img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></span>
+<span><img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></span>
+  <span><img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></span>
+<span><img align="right" alt="" height="150" style="border-radius:50px;" src=""></span>
+<br><br>
 
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+ 🌱 I’m currently learning ... 
+<span><img align="center" alt="JQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg"></span>
+<span><img align="center" alt="JQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+</span><span><img align="center" alt="JQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg">
+</span>
+  
+ # ![Snake animation](images/github-grid-snake.svg)
 
-- 🌱 I’m currently learning ... 
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
+ 
+ <span><a href="https://www.linkedin.com/in/chris-townsend93/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></span>
 
 
 
