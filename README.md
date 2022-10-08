@@ -23,7 +23,7 @@
 </span><span><img align="center" alt="JQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg">
 </span>
   
- # ![Snake animation](images/github-grid-snake.svg)
+ # ![Snake animation](/github-grid-snake.svg)
 
  
  <span><a href="https://www.linkedin.com/in/chris-townsend93/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></span>
